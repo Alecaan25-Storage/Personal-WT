@@ -24,7 +24,7 @@ include 'mainHeader.php';
 
             echo '<section class="indexText loginform">
             <div class="mainText">
-                    <h2>Welcome to the <span style="color:#24c175">Personal Work Tracker</span> for USDF.<br><br>If you are a new member, please register by 
+                    <h2>Welcome to the <span style="color:#24c175">Personala Work Tracker</span> for USDF.<br><br>If you are a new member, please register by 
                     <br>clicking the button below!
                     <form action="signup.php">
                     <button class="registerbuttom" >Register</button></form><br><br>
