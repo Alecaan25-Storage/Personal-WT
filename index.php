@@ -1,5 +1,5 @@
 <?php
-include 'mainHeader.php';hehe
+include 'mainHeader.php';
 ?>
 <body>
 <?php
